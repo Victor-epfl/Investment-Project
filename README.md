@@ -21,7 +21,7 @@ We implement and compare the performance of:
 ## Files
 
 - `Project_Report_Investments.pdf`: Full technical report with methodology, results, and interpretation
-- `investment_project.ipynb` *(or similar)*: Jupyter notebook with all code used for data processing and strategy evaluation
+- `investments_final.ipynb`: Jupyter notebook with all code used for data processing and strategy evaluation
 
 ## Authors
 
