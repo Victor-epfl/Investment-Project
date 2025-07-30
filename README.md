@@ -23,7 +23,7 @@ We implement and compare the performance of:
 - `Project_Report_Investments.pdf`: Full technical report with methodology, results, and interpretation
 - `investments_final.ipynb`: Jupyter notebook with all code used for data processing and strategy evaluation
 
-## Authors
+## Team
 
 Victor Nahoul, Jagoda Janina Mulewicz, Paul Constantin Briot, Andrei Eugeniu Patularu  
 EPFL | FIN-405 Investments Course | June 2025
